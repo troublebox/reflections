@@ -1,0 +1,28 @@
+Automating compares is both more accurate
+and faster than doing it manually.
+
+Having access to a file's history
+allows one to see both what has changed
+and the layers of complexity that
+have been added over time.
+
+The benefits of manually committing files
+is that it creates a logical history of the program
+but autosaving has the added benefit
+of removing user forgetfulness or error
+
+
+For interrelated files, such as with code,
+it helps to see related changes over time
+for related files. For storage sites like
+google docs, this is not a priority.
+
+Using Git log and diff allows one to see the
+differences from one file to another.
+
+By having powerful version control systems
+that allow differentiation and compare
+there is less risk involved when innovating
+
+I think I'll use git as I start writing
+more complex projects and using frameworks
