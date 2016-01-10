@@ -1,0 +1,9 @@
+Initializing a repository creates the hidden .git file
+It does not make commits
+It may be important to mark the first commit with a message
+And so it must be done manually
+
+A staging area is different from the working directory and repository
+in that it is a temporary placeholder to which files can be added
+without committing changes. It allows for a working area where decisions
+about commits can be made and unmade without penalty.
