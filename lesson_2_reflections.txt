@@ -7,3 +7,8 @@ A staging area is different from the working directory and repository
 in that it is a temporary placeholder to which files can be added
 without committing changes. It allows for a working area where decisions
 about commits can be made and unmade without penalty.
+
+Use the staging area to track what changes have been made
+so that each command can be assigned to a logical change.
+Powerful diff tools help to keep track of what each commit
+will include.
