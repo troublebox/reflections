@@ -12,3 +12,10 @@ Use the staging area to track what changes have been made
 so that each command can be assigned to a logical change.
 Powerful diff tools help to keep track of what each commit
 will include.
+
+Branches are helpful when experimenting, creating alternate versions,
+or doing work where the integrity of the original code should be maintained
+
+Diagrams help to keep track of the structure of individual branches of code
+so that it is easy to identify branches, what code belongs to each of them
+and to maintain a sense of overview of branch history.
