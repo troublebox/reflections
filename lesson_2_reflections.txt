@@ -19,3 +19,12 @@ or doing work where the integrity of the original code should be maintained
 Diagrams help to keep track of the structure of individual branches of code
 so that it is easy to identify branches, what code belongs to each of them
 and to maintain a sense of overview of branch history.
+
+Merging two branches combines the code that has been worked on into
+one working file. This is a great way to delegate coding to different people
+since their separate work can be combined elegantly without each stepping
+on each other's toes. It also allows for experimentation, as new features
+can be added into a main program, without stopping its development while
+it is under construction. We show this by combining branches, and giving it
+the master label, to show that the parents of each branch head is included
+in the merged history.
