@@ -6,3 +6,10 @@ Pulling manually ensures that collaboration can work more smoothly,
 and allows you to effectively use the remote repository as a back-up
 in case you wish to experiment locally without fear of damaging
 any code that others are viewing or using.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Branches allow for development of the same program in different sections
+that can then be merged together and traced back for bug hunting. Clones
+allow alternate versions to be moved around, so that entire projects can
+be shared, distributed or collaborated upon. And forks do the same, for
+GitHub users, but retain connection to the original creator.
