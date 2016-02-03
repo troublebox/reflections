@@ -28,3 +28,8 @@ can be added into a main program, without stopping its development while
 it is under construction. We show this by combining branches, and giving it
 the master label, to show that the parents of each branch head is included
 in the merged history.
+
+The advantages of always resolving conflicts manually ensures that
+changes are not lost, and that code is developed meaningfully.
+Automatic merge is a powerful tool when no conflicting code exists,
+but Git cannot evaluate conflicts very well.
