@@ -13,3 +13,7 @@ that can then be merged together and traced back for bug hunting. Clones
 allow alternate versions to be moved around, so that entire projects can
 be shared, distributed or collaborated upon. And forks do the same, for
 GitHub users, but retain connection to the original creator.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It allows potential conflicts to be investigated and resolved,
+and allows for a fall-back if a bug has been introduced.
