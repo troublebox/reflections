@@ -22,3 +22,11 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 Sharing a drive and working simultaneously in it might be faster
 but would lose traceability and versioning. Collaborating on a scale
 is far easier with GitHub.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Changes in a different branch make sense when delegating features that do not
+conflict with ongoing master development, where merges can be largely automatic
+or when creating alternate versions or master, where it is helpful to be able
+to change both versions separately. Working directly in master, however, offers
+far more simplicity and ease, while branching quickly becomes complex and can
+become unwieldy.
